@@ -9,13 +9,13 @@ https://pykalman.github.io/ </br>
 https://www.quantopian.com/lectures/kalman-filters#notebook_tab </br>
 http://www.thealgoengineer.com/2014/online_linear_regression_kalman_filter/ </br>
 
-Z - true value
-z - observation values
-R - covariance of z
-x - estimate of Z (usually assigned to 0)
-P - covariance of x (usually assigned to 1)
-Q - transition covariance (usually assigned to 1e-5)
-Kg - Kalman Gain (a weight between observation and estimation)
+Z - true value </br>
+z - observation values </br>
+R - covariance of z </br>
+x - estimate of Z (usually assigned to 0) </br>
+P - covariance of x (usually assigned to 1) </br>
+Q - transition covariance (usually assigned to 1e-5) </br>
+Kg - Kalman Gain (a weight between observation and estimation) </br>
 
 Idea: 
 Assume true value is constant
