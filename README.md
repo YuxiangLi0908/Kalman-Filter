@@ -1,7 +1,7 @@
 # Kalman-Filter
 
-This is about figuring out how Kalman Filter works
-Here are some online materials
+This is about figuring out how Kalman Filter works\n
+Here are some online materials\n
 https://scipy-cookbook.readthedocs.io/items/KalmanFiltering.html
 https://pykalman.github.io/
 https://www.quantopian.com/lectures/kalman-filters#notebook_tab
