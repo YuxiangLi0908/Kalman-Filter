@@ -24,3 +24,5 @@ kf = KalmanFilter(n_dim_obs=1, n_dim_state=2,
 state_means, state_covs = kf.filter(data.EWC.values)
 pd.DataFrame(state_means)[0].plot()
 plt.show()
+
+Figure_1 shows the hedgd ratio variation through times.
